@@ -8,27 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d45aec7154c48219",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e3473c9e5c8bdac",
+            "id": "880877104aa69d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cf2686a4441fddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4 - Enumeration/1) NetBIOS Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38c3e52e991b528f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4 - Enumeration/2) SNMP Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d64877632dbd3594",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20230614152949.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 538.5
   },
   "right": {
     "id": "fafa4944e7eb8e10",
@@ -94,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "images/Pasted image 20230614152949.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "images/Pasted image 20230614152949.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "images/Pasted image 20230614152949.png"
               }
             }
           }
@@ -155,8 +181,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e3473c9e5c8bdac",
+  "active": "5e11cdc0ebd0e55a",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Module 4 - Enumeration/1) NetBIOS Enumeration.md",
+    "images/Pasted image 20230614152949.png",
+    "images/Pasted image 20230614151833.png",
+    "images/Pasted image 20230614151556.png",
+    "Module 4 - Enumeration/8) Enumeration Using Various Enumeration Tools.md",
+    "Module 4 - Enumeration/7) RPC, SMB, FTP Enumeration.md",
+    "Module 4 - Enumeration/5) DNS Enumeration.md",
+    "Module 4 - Enumeration/4) NFS Enumeration.md",
+    "Module 4 - Enumeration/6) SMTP Enumeration.md",
+    "Module 4 - Enumeration/3) LDAP Enumeration.md",
+    "Module 4 - Enumeration/2) SNMP Enumeration.md",
+    "images/Pasted image 20230614141549.png",
+    "Module 3 Scanning Networks (Theory).md",
+    "Module 3 Scanning Networks.md",
+    "README.md",
+    "Module 4 - Enumeration",
+    "images/Pasted image 20230608114146.png",
+    "images/Pasted image 20230608114125.png",
+    "images",
+    "New folder",
+    "Pasted image 20230608114125.png",
+    "Pasted image 20230608114146.png"
   ]
 }
