@@ -1,5 +1,6 @@
 
-![Alt Text](img_01.png)
+
+![[img_1.png]]
 
 # NetBIOS Enumeration using Windows CL Utilities
 
@@ -9,7 +10,7 @@
 ## Victim : Metasploitable2   192.168.1.90
 
 
-![[image_2.png]]
+
 
 ![Alt Text](Module%204%20-%20Enumeration/images/image_2.png)
 

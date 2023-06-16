@@ -33,9 +33,11 @@
             "id": "38c3e52e991b528f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Module 4 - Enumeration/img_01.png"
+                "file": "Module 4 - Enumeration/1) NetBIOS Enumeration.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "fafa4944e7eb8e10",
@@ -179,10 +180,10 @@
   },
   "active": "880877104aa69d86",
   "lastOpenFiles": [
-    "Module 4 - Enumeration/8) Enumeration Using Various Enumeration Tools.md",
-    "Module 4 - Enumeration/images/Pasted image 20230616193509.png",
     "Module 4 - Enumeration/img_01.png",
     "Module 4 - Enumeration/1) NetBIOS Enumeration.md",
+    "Module 4 - Enumeration/8) Enumeration Using Various Enumeration Tools.md",
+    "Module 4 - Enumeration/images/Pasted image 20230616193509.png",
     "Module 3 Scanning Networks.md",
     "Module 4 - Enumeration/images/Pasted image 20230614141549.png",
     "Module 4 - Enumeration/images/image_2/png.md",
