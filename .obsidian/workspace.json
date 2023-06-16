@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fafa4944e7eb8e10",
@@ -178,8 +179,11 @@
   },
   "active": "880877104aa69d86",
   "lastOpenFiles": [
-    "Module 3 Scanning Networks.md",
+    "Module 4 - Enumeration/8) Enumeration Using Various Enumeration Tools.md",
+    "Module 4 - Enumeration/images/Pasted image 20230616193509.png",
+    "Module 4 - Enumeration/img_01.png",
     "Module 4 - Enumeration/1) NetBIOS Enumeration.md",
+    "Module 3 Scanning Networks.md",
     "Module 4 - Enumeration/images/Pasted image 20230614141549.png",
     "Module 4 - Enumeration/images/image_2/png.md",
     "Module 4 - Enumeration/images/Pasted image 20230608114146.png",
@@ -187,7 +191,6 @@
     "Module 4 - Enumeration/images/image_3.png",
     "images/img_02.png.md",
     "images",
-    "Module 4 - Enumeration/img_01.png",
     "Module 4 - Enumeration/images/img_1.png",
     "Module 4 - Enumeration/images/image_2",
     "Enumeration.md",
@@ -200,7 +203,6 @@
     "images/Pasted.md",
     "Module 4 - Enumeration/images",
     "Module 4 - Enumeration/2) SNMP Enumeration.md",
-    "Module 4 - Enumeration/8) Enumeration Using Various Enumeration Tools.md",
     "Module 4 - Enumeration/7) RPC, SMB, FTP Enumeration.md",
     "Module 4 - Enumeration/5) DNS Enumeration.md",
     "Module 4 - Enumeration/4) NFS Enumeration.md",
@@ -210,7 +212,6 @@
     "Module 4 - Enumeration",
     "Module 4 - Enumeration/images",
     "New folder",
-    "Pasted image 20230608114125.png",
-    "Pasted image 20230608114146.png"
+    "Pasted image 20230608114125.png"
   ]
 }

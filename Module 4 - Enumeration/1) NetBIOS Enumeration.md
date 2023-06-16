@@ -8,6 +8,9 @@
 ## Attacker : Windows 11   192.168.1.65
 ## Victim : Metasploitable2   192.168.1.90
 
+
+![[image_2.png]]
+
 ![Alt Text](Module%204%20-%20Enumeration/images/image_2.png)
 
 # nbtstat -a 192.168.1.90
