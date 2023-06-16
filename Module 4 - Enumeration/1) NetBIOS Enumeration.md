@@ -1,4 +1,5 @@
 ![[img_01.png]]
+![Alt Text](img_01.png)
 ![[images/img_1.png]]
 # NetBIOS Enumeration using Windows CL Utilities
 
