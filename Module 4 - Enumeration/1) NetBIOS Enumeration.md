@@ -1,5 +1,5 @@
-
-![[img_1.png]]
+![[img_01.png]]
+![[images/img_1.png]]
 # NetBIOS Enumeration using Windows CL Utilities
 
 ## we are attacking metasploitable 2 vm machine using host machine windows 11
