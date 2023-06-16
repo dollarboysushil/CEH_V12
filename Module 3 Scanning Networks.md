@@ -10,7 +10,7 @@
 - perform banner grabbing/ os fingerprinting
 - identify network vulnerabilities
 
-![[images/img_1.png]]
+![[img_1.png]]
 ![[Pasted image 20230608114146.png]]
 
 
